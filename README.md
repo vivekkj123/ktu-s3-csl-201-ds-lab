@@ -26,6 +26,6 @@ Sl. No| Experiment
 18|Quick Sort
 19|Depth First Search (DFS)
 20|Breadth First Search (BFS)
-20|Binary Tree
-20|Hashing
+21|Binary Tree
+22|Hashing
 
